@@ -1,0 +1,6 @@
+# 编译产物，用 build.bat 生成
+*.exe
+*.pdb
+
+# 个人设置，运行时自动生成
+settings.ini
